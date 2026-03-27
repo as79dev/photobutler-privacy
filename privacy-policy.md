@@ -1,8 +1,3 @@
----
-title: Privacy Policy – PhotoButler
-layout: default
----
-
 # Privacy Policy for PhotoButler
 
 _Last updated: March 27, 2026_  
