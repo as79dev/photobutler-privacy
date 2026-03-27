@@ -1,7 +1,7 @@
-# Datenschutzrichtlinie für PhotoButler
+# Datenschutzrichtlinie für PhotoButler - Deutsch
 
 Zuletzt aktualisiert: 27. März 2026  
-Verantwortlicher: as79dev  
+Verantwortlicher: A. Schleif
 E-Mail: as79dev@gmail.com
 
 Willkommen bei **PhotoButler** („App“). Der Schutz Ihrer persönlichen Daten ist uns sehr wichtig.  
@@ -17,7 +17,7 @@ Diese Datenschutzerklärung erläutert, wie wir personenbezogene Daten verarbeit
 
 ## 1. Verantwortlicher
 **PhotoButler / Betreiber:**  
-as79dev  
+A. Schleif  
 E-Mail: **as79dev@gmail.com**
 
 ---
@@ -33,7 +33,7 @@ Wir erfassen bei Nutzung der App ggf. automatisch:
 
 ### 2.2 Bilder & Fotos
 - Ihre Fotos werden **nur lokal auf Ihrem Gerät verarbeitet**.  
-- Eine Übertragung an unsere Server findet **nicht** statt, es sei denn, Sie nutzen explizit eine Funktion, die Uploads beinhaltet (falls implementiert).
+- Eine Übertragung an unsere Server findet **nicht** statt
 
 ### 2.3 Kontaktdaten (optional)
 Wenn Sie uns kontaktieren (Support‑Anfrage), verarbeiten wir:
@@ -163,7 +163,7 @@ Falls PhotoButler in Zukunft Funktionen nutzt, die Tracking erfordern:
 ## 11. Änderungen dieser Datenschutzrichtlinie
 Wir können diese Richtlinie gelegentlich aktualisieren. Die aktuelle Version finden Sie jederzeit öffentlich unter:
 
-**https://as79dev.github.io/photobutler-privacy/**
+**https://as79dev.github.io/photobutler-privacy/privacy-policy.md**
 
 ---
 
